@@ -1,0 +1,19 @@
+"$schema": "../assetlist.schema.json",
+
+
+description": "The native token of Oraichain", 
+"denom": "orai", 
+"exponent": 6
+"base": "uorai",
+"name": "Oraichain",
+"display": "orai",
+'symbol": "ORAI",
+"logo_URI" : {
+"svg": "https://raw.githubusercontent.com/cosmos
+/chain-registry/master/oraichain/images/orai.svg"
+
+
+
+
+
+
